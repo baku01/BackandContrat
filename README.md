@@ -16,9 +16,3 @@ BackendContrat é um projeto em Go que gerencia usuários, incluindo candidatos 
 - Docker
 - Docker Compose
 
-## Configuração
-
-### Clonar o Repositório
-```sh
-git clone https://github.com/seu-usuario/BackandContrat.git
-cd BackandContrat
